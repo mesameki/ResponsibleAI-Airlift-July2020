@@ -52,7 +52,6 @@ This repository contains content of a two-part workshop for using machine learni
 5. Open Part 1 of the workshop
 
     * Go back to the Jupyter window.
-    * Navigate to `responsibleai-airlift-july2020/interpretability-glassbox/` folder.
     * Open `EBM.ipynb` notebook.
 
 You are ready to start your workshop! Have fun.
